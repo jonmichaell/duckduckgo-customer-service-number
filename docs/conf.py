@@ -13,4 +13,3 @@ html_js_files = [
     'chatbot.js',
 ]
 
-html_favicon = '_static/download.png' 
