@@ -1,4 +1,4 @@
-project = 'DuckDuckGo Customer Support'
+project = 'DuckDuckGo Customer Support Number'
 author = 'Your Name'
 release = '1.0'
 
